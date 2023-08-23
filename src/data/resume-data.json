@@ -1,0 +1,604 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Arshad Sheik",
+    "label": "Computer Science Engineer",
+    "picture": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/II.png?alt=media&token=817ff17a-6d9b-4090-a5d6-fda1c10ce3ef",
+    "email": "contact.arshadsheik@gmail.com",
+    "url": "http://johndoe.com",
+    "website": "http://johndoe.com",
+    "summary": "Computer Science Engineer",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Hyderabad",
+      "countryCode": "IN",
+      "region": "Telangana"
+    },
+
+    "profiles": [
+      {
+        "network": "resume",
+        "username": "Arshad Sheik",
+        "url": "http://johndoe.com"
+      },
+      {
+        "network": "GitHub",
+        "username": "ArshadSheik",
+        "url": "https://github.com/ArshadSheik"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "arshad-sheik",
+        "url": "https://www.linkedin.com/in/arshad-sheik/"
+      },
+      {
+        "network": "Twitter",
+        "username": "Arshad_Sheik_",
+        "url": "https://twitter.com/Arshad_Sheik_"
+      }
+    ]
+
+  },
+
+  "work": [
+    {
+        "index": 0,
+        "id": "0bd3d194-f609-4d1b-b5cd-97c44d76655c",
+        "name": "Merilytics",
+        "place": {
+            "name": "Hyderabad, Telangana India"
+        },
+        "startDate": "2023-08-01",
+        "position": "Technical Associate",
+        "summary": "I am currently working as Technical Associate at Merilytics. Here, I'm working on data engineering and data analytics related projects.",
+        "location": "Hyderabad, Telangana India",
+        "stillEmployed": true
+    },
+    {
+        "index": 1,
+        "id": "d9f0f81a-d0eb-4cde-8ca7-b026c1773e09",
+        "name": "Merilytics",
+        "place": {
+            "name": "Hyderabad, Telangana India"
+        },
+        "position": "Technical Associate-Intern",
+        "endDate": "2023-06-01",
+        "startDate": "2023-02-01",
+        "summary": "Designed and implemented data pipelines that incorporate incremental data loading on a daily basis. As a result, the load time has been significantly reduced, achieving an improvement of 38% compared to the expected load time. This enhancement has led to enhanced data visibility on our dashboards.\n\nEnsured ongoing monitoring of pipelines and effectively resolved data discrepancies by conducting troubleshooting activities.",
+        "location": "Hyderabad, Telangana India",
+        "stillEmployed": false
+    },
+    {
+        "name": "Talakunchi",
+        "position": "Cybersecurity Intern",
+        "summary": "Conceptualized the bits and bytes of Cybersecurity and Ethical hacking, on different types of Malware and Threats, IDS and IPS, Vulnerability assessment check and also implemented the same on some vulnerable websites.\nImplemented the concepts of Ethical Hacking.",
+        "location": "Virtual / Online",
+        "highlights": [
+            "Started the company"
+        ],
+        "id": "95017747-2c71-44aa-8c77-0c9002f8025f",
+        "startDate": "2022-03-01",
+        "endDate": "2022-05-01",
+        "place": {
+            "name": "Virtual / Online"
+        },
+        "stillEmployed": false,
+        "index": 2
+    }
+  ],
+  
+  "education": [
+    {
+        "position": 2,
+        "id": "5499b46b-47ce-4e3f-bcb7-0e2a0dbb2b04",
+        "institution": "Mahatma Gandhi Institute of Technology (MGIT)",
+        "endDate": "2023-01-31",
+        "studyType": "B. Tech",
+        "area": "Computer Science Engineering"
+    },
+    {
+        "position": 1,
+        "id": "2b2a0baa-be59-4154-82a9-d4b4246cced6",
+        "institution": "SriGayatri Jr. College",
+        "studyType": "Intermediate",
+        "endDate": "2019-01-31",
+        "area": "MPC"
+    },
+    {
+        "position": 0,
+        "id": "19d4b759-4afd-4fc3-bcf3-2d7735d1faef",
+        "institution": "Bhashyam Public School",
+        "studyType": "High School",
+        "area": "10th Standard",
+        "endDate": "2017-01-31"
+    }
+  ],
+
+  "awards": [
+    {
+      "title": "Forage - Deloitte Technology Virtual Experience",
+      "date": "2023-06-14",
+      "awarder": "Forage",
+      "summary": "Forage - Deloitte Technology Virtual Experience, 2023",
+      "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Certifications%2FForage%2FDeloitte_page.jpg?alt=media&token=5dc0e112-6cf2-4ad6-8efa-595218a98550"
+        }
+      ]
+    },
+    {
+      "title": "Forage - JP Morgan SE Virtual Experience",
+      "date": "2023-06-11",
+      "awarder": "Forage",
+      "summary": "Forage - JP Morgan Software Engineering Virtual Experience, 2023",
+      "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Certifications%2FForage%2FJP%20Morgan_page.jpg?alt=media&token=384c8836-7d71-4ed8-8de8-549017aad35d"
+        }
+      ]
+    },
+    {
+      "title": "NPTEL - Cloud Computing",
+      "date": "2022-10-26",
+      "awarder": "NPTEL",
+      "summary": "NPTEL - Cloud Computing, 2022",
+      "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Certifications%2FNPTEL%2FCloud%20computing.jpg?alt=media&token=607ef585-e056-4ba4-b385-02da1232bfeb"
+        }
+      ]
+    },
+    {
+      "title": "Talakunchi - CyberSecurity Intern",
+      "date": "2022-04-19",
+      "awarder": "Talakunchi",
+      "summary": "Talakunchi, 2022",
+      "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Certifications%2FTalakunchi_page.jpg?alt=media&token=bec24b12-e9c5-4cbe-98dc-a7184093ae09"
+        }
+      ]
+    },
+    {
+      "title": "NPTEL - Social Networks",
+      "date": "2021-09-26",
+      "awarder": "NPTEL",
+      "summary": "NPTEL - Social Networks, 2021",
+      "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Certifications%2FNPTEL%2FSocial%20Networks.jpg?alt=media&token=293134e8-e98f-40ed-a23d-bf67a8704e96"
+        }
+      ]
+    },
+    {
+      "title": "NPTEL - Data Science",
+      "date": "2021-09-28",
+      "awarder": "NPTEL",
+      "summary": "NPTEL - Data Science, 2021",
+      "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Certifications%2FNPTEL%2FData%20Science%20for%20Engineers.jpg?alt=media&token=a9ccacf6-ea87-452a-ae3d-41496640589c"
+        }
+      ]
+    },
+    {
+      "title": "IT Security: Defense against the digital dark arts",
+      "date": "2021-10-30",
+      "awarder": "Coursera",
+      "summary": "Coursera, IT Security: Defense against the digital dark arts, 2021",
+      "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Certifications%2FIT%20Security%20-%20Defence%20against%20Digital%20Dark%20Arts_page.jpg?alt=media&token=5901fe1f-7b27-47cd-a1b5-13fe5c68d259"
+        }
+      ]
+    },
+    {
+      "title": "Google IT Automation with Python - Specialization",
+      "date": "2020-08-28",
+      "awarder": "Coursera",
+      "summary": "Coursera, Google IT Automation with Python - Specialization, 2020",
+      "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Certifications%2FGoogle%20py%2FGoogle%20Py%20Specialization.jpg?alt=media&token=6e88942c-cd4c-4576-8e88-2c36d08f0844"
+        }
+      ]
+    },
+    {
+      "title": "Python for Everybody - Specialization",
+      "date": "2020-05-24",
+      "awarder": "Coursera",
+      "summary": "Coursera, Python for Everybody - Specialization, 2020",
+      "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Certifications%2FPY4E%2FPY4E%20Specialization.jpg?alt=media&token=078143c3-9476-4e79-a664-862924050622"
+        }
+      ]
+    }
+  ],
+
+  "publications": [
+    {
+      "index": 0,
+      "name": "A Deep Learning Approach for the Detection and Identification of Neovascularization in Fundus Images",
+      "publisher": "IRJET",
+      "releaseDate": "2023-06-28",
+      "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Publications%2FIRJET.jpg?alt=media&token=ca1fa6bc-ade6-48db-a24b-2ef6f624f486"
+        }
+      ],
+      "link": "https://www.irjet.net/archives/V10/i6/IRJET-V10I6137.pdf",
+      "description": "The Neovascularization detection and classification of diabetic retinopathy in fundus images using deep learning methods has a great impact in advancing the field of ophthalmology.  By leveraging pretrained models, such as convolutional neural networks (CNNs), that are trained on large datasets from other tasks, transfer learning allows for the extraction of meaningful features from fundus images and enables the development of accurate and robust neovascularization detection models with relatively smaller datasets. "
+    },
+    {
+      "index": 1,
+      "name": "Detection and Identification of Non-Helmet Riders and Their License Plate Numbers",
+      "publisher": "IJRASET",
+      "releaseDate": "2023-03-20",
+      "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Publications%2FIJRASET.jpg?alt=media&token=d62634ec-1b7f-4650-8157-c6adf9d92590"
+        }
+      ],
+      "link": "https://doi.org/10.22214/ijraset.2023.49682",
+      "description": "While riding on the roads everyone must follow the traffic rules accordingly and the bike riders have to wear helmets for their own safety. The proposed system demonstrates that deep learning, specifically CNNs, can be used to detect and identify non-helmet riders and their license plate numbers from CCTV footage. "
+    }
+  ],
+
+  "skills": [
+    {
+        "name": "Database",
+        "index": 0,
+        "value": 90,
+        "id": "Database"
+    },
+    {
+        "name": "SQL",
+        "index": 1,
+        "value": 85,
+        "id": "SQL"
+    },
+    {
+        "name": "Machine Learning",
+        "index": 2,
+        "value": 80,
+        "id": "Machine Learning"
+    },
+    {
+      "name": "Data Science",
+      "index": 11,
+      "level": "Master",
+      "value": 75,
+      "keywords": [
+        "Machine Learning",
+        "Data",
+        "ML",
+        "DS"
+      ]
+    },
+    {
+        "name": "Python",
+        "index": 3,
+        "value": 80,
+        "id": "Python"
+    },
+    {
+        "name": "Azure",
+        "index": 4,
+        "value": 70,
+        "id": "Azure"
+    },
+    {
+        "name": "Snowflake",
+        "index": 5,
+        "value": 70,
+        "id": "Snowflake"
+    },
+    {
+        "name": "Git",
+        "index": 7,
+        "value": 65,
+        "id": "Git"
+    },
+    {
+        "name": "Github",
+        "index": 8,
+        "value": 65,
+        "id": "Github"
+    },
+    {
+        "name": "Power BI",
+        "index": 10,
+        "value": 70,
+        "id": "Power BI"
+    },
+    {
+      "name": "Tableau Software",
+      "index": 9,
+      "value": 70,
+      "id": "Tableau Software"
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "Telugu",
+      "value": 100,
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "value": 95,
+      "fluency": "Full Professional Proficiency"
+    },
+    {
+      "language": "Hindi",
+      "value": 90,
+      "fluency": "Full Professional Proficiency"
+    }
+  ],
+
+  "interests": [
+    {
+      "name": "Upskilling !!",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Hobbies%2Fupskill.gif?alt=media&token=3b847799-bdc9-4f02-9de2-fd2047cd5840"
+    },
+    {
+      "name": "Build Projects",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Hobbies%2Fbuild%20projects.gif?alt=media&token=1e16c6ca-615b-44f0-b878-03b87a953404"
+    },
+    {
+      "name": "Playing Badminton",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Hobbies%2Fplaying%20badminton.gif?alt=media&token=c96b67c3-eebc-45cb-8ff6-0be6f6487f4e"
+    },
+    {
+      "name": "Watching TV Series",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Hobbies%2Fwatching%20tv%20series.gif?alt=media&token=957f146f-af51-4fac-bbac-b192b334d535"
+    },
+    {
+      "name": "Listening to Music",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Hobbies%2Flistening%20to%20music.gif?alt=media&token=4d422530-0c02-432e-8b7d-81229a77b765"
+    }
+  ],
+
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "WorldCup DB using Bash",
+      "description": "This project aims to Create a World Cup Database using PostgreSQL & Bash commands. Bash commands are used to read the data from the csv files and insert into PostgreSQL Database. ",
+      "highlights": [],
+      "keywords": [
+        "Database",
+        "Bash",
+        "SQL",
+        "PostgreSQL"
+      ],
+      "startDate": "2023-08-01",
+      "endDate": "2023-08-03",
+      "type": "Database",
+      "link": "https://github.com/ArshadSheik/WorldCup-DB-Bash"
+    },
+    {
+      "name": "Exploratory Data Analysis",
+      "description": "Exploratory data analysis (EDA) is a Data Science concept where we analyze a dataset to discover patterns, trends, and relationships within the data. This project aims to provide an overview of how to perform EDA. ",
+      "keywords": [
+        "Python",
+        "Data Analysis"
+      ],
+      "startDate": "2023-07-19",
+      "endDate": "2023-07-22",
+      "link": "https://github.com/ArshadSheik/EDA"
+    },
+    {
+      "name": "Data Engineering Pipeline",
+      "description": "Constructing a Data pipeline using python which can transform and manipulate raw data to improve its quality, consistency, and relevance for analysis. It includes handling missing values, standardizing variables, and removing outliers. ",
+      "startDate": "2023-07-01",
+      "endDate": "2023-07-02",
+      "link": "https://github.com/ArshadSheik/DataPrep-Pipeline-using-py3"
+    },
+    {
+      "name": "Neovascularization Detection",
+      "description": "This project aims for Detection and Identification on Neovascularization in fundus images. Deep learning approaches are used along with transfer learning to train the model on detecting and classifying the stage of neovascularization in fundus images. ",
+      "startDate": "2023-01-27",
+      "endDate": "2023-04-28",
+      "link": "https://github.com/ArshadSheik/DR-Detect"
+    },
+    {
+      "name": "Non-Helmet Rider Detection",
+      "description": "This project aims to detect the non-helmet bike riders in a real time video footage and extract the license plate images of the non-helmet riders detected. It is developed based on deep learning approaches and using OpenCV methods. ",
+      "startDate": "2022-10-01",
+      "endDate": "2022-12-12",
+      "link": "https://github.com/ArshadSheik/DR-Detect"
+    },
+    {
+      "name": "Neural Networks In ML",
+      "description": "This project aims to Implement a Classification Model with Neural Network and Visualizing how Neural Network works. ",
+      "startDate": "2022-10-04",
+      "endDate": "2022-10-06",
+      "link": "https://github.com/ArshadSheik/Neural-Networks-In-ML"
+    },
+    {
+      "name": "LazyPredict ML Model",
+      "description": "Lazy Predict is a Python Module to compare performance of various Machine Learning models on a dataset. This code gives an overview of how the LazyPredict Algorithm can be used for a classification and regression problems. ",
+      "startDate": "2022-09-25",
+      "endDate": "2022-09-30",
+      "link": "https://github.com/ArshadSheik/LazyPredict-ML-Model"
+    },
+    {
+      "name": "Machine Learning Projects",
+      "description": "This project is a collection of simple Machine learning projects implemented using python. These projects gives an overview of how the machine learning algorithms are applied in various business problems and use cases. ",
+      "startDate": "2022-08-06",
+      "endDate": "2022-08-20",
+      "link": "https://github.com/ArshadSheik/ML-Algorithms-py3"
+    },
+    {
+      "name": "Google Search Analysis",
+      "description": "This project aims to analyse the Google search trends on a specific keyword (query) using pytrends API. ",
+      "startDate": "2022-07-16",
+      "endDate": "2022-07-20",
+      "link": "https://github.com/ArshadSheik/Google-Search-Analysis"
+    },
+    {
+      "name": "Talakunchi - CyberSecurity",
+      "description": "Virtual Internship in Cybersecurity concepts and basic hacking with Kali Linux and Metasploit. Project reports on Authentication Bypass, Scanning using OWASP ZAP, Scanning for Open ports and attacking them, System Hacking and Exploiting Server Vulnerabilities. ",
+      "startDate": "2022-02-18",
+      "endDate": "2022-04-19",
+      "link": "https://github.com/ArshadSheik/TALAKUNCHI-CYBERSECURITY"
+    },
+    {
+      "name": "Python Frames Generator",
+      "description": "A Simple Python Tkinter application to generate frames from the given input video and store those obtained frames in a user specified location. ",
+      "startDate": "2022-03-18",
+      "endDate": "2022-03-20",
+      "link": "https://github.com/ArshadSheik/Python-Frames_Generator"
+    },
+    {
+      "name": "Monica-Bot",
+      "description": "Developed a Chatbot called Monica-Bot using IBM Cloud's Watson Assistant. The Chatbot acts as a companion to the children suffering with Autism disorder. Developed the Chatbot as a part of hackathon with the team of 5 members and won the Hackathon. ",
+      "startDate": "2020-02-27",
+      "endDate": "2020-03-01"
+    }
+  ],
+
+  "specific": {
+    "basics": {
+      "visaSponsorship": true,
+      "personalDescription": "I'm a B.Tech graduate in Computer Science and Engineering from MGIT. My enthusiasm for technology is paralleled by a commitment to staying abreast of the most current trends in the field. I'm also experienced in Big data & Data Analytics domains, currently working as Technical Associate at Merilytics. I belong to Hyderabad, Telangana, India."
+    },
+    "education": {
+      "studiesLevel": 4
+    },
+    "work": {
+      "contractTypes": [
+        "permanent"
+      ],
+      "codingYears": 4,
+      "codingReason": "Coding, for me, is the ultimate blend of logic and creativity that consistently ignites my motivation. Learning is a never-ending journey in the coding world, and that's what keeps me hooked. It's not just a skill; it's a driving force that keeps me engaged and excited every day.",
+      "searchState": "openOpportunities",
+      "experienceYears": 0,
+      "codeExperienceYears": 0,
+      "otherExperienceYears": 0
+    },
+
+    "sound": {
+      "embedUrl": "https://open.spotify.com/embed/playlist/2Fz0d2vTsv3DZH13SqTnZU"
+    },
+
+    "interestedBy": "Big Data Engineering, Big Data Analytics, Databases, Datascience, Machine Learning, Deeplearning, Computer Vision"
+  },
+
+
+  "resumeCustomization": {
+    "imageHeader": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/lap.jpg?alt=media&token=f1cf8c87-a334-47c6-af6c-bce65832f734",
+      "alt": "Unsplash Image"
+    },
+    "cardsOrder": [
+      {
+        "type": "basics",
+        "variant": 0
+      },
+      {
+        "type": "studies",
+        "variant": 4
+      },
+      {
+        "type": "experiences",
+        "variant": 0
+      },
+      {
+        "type": "projects",
+        "variant": 4
+      },
+      {
+        "type": "awards",
+        "variant": 4
+      },
+      {
+        "type": "publications",
+        "variant": 4
+      },
+      {
+        "type": "skills",
+        "variant": 2
+      },
+      {
+        "type": "interestedBy",
+        "variant": 3
+      },
+      {
+        "type": "language",
+        "variant": 2
+      },
+      {
+        "type": "gifs",
+        "variant": 1
+      },
+      {
+        "type": "soundtrack",
+        "variant": 4
+      }
+    ],
+    "fields": {
+      "work": {
+        "customDateFormat": "MMMM YYYY"
+      },
+      "projects" : {
+        "customDateFormat": "MMMM YYYY"
+      }
+    },
+
+    "theme": {
+      "palette": {
+        "primary": {
+          "50": "#f6e6f0",
+          "100": "#edcce1",
+          "200": "#dc9ac2",
+          "300": "#ca67a4",
+          "400": "#b93585",
+          "500": "#a70267",
+          "600": "#860252",
+          "700": "#64013e",
+          "800": "#430129",
+          "900": "#210015",
+          "contrastDefaultColor": "light"
+        },
+        "secondary": {
+          "50": "#fee7ed",
+          "100": "#fccedb",
+          "200": "#f99eb6",
+          "300": "#f76d92",
+          "400": "#f43d6d",
+          "500": "#f10c49",
+          "600": "#c10a3a",
+          "700": "#91072c",
+          "800": "#60051d",
+          "900": "#30020f",
+          "contrastDefaultColor": "light"
+        },
+        "tertiary": {
+          "50": "#fff0ec",
+          "100": "#fee1d9",
+          "200": "#fdc4b3",
+          "300": "#fda68d",
+          "400": "#fc8967",
+          "500": "#fb6b41",
+          "600": "#c95634",
+          "700": "#974027",
+          "800": "#642b1a",
+          "900": "#32150d",
+          "contrastDefaultColor": "light"
+        }
+      }
+    }
+
+  }
+
+}
