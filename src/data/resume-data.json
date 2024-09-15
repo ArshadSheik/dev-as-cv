@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Arshad Sheik",
-    "label": "Computer Science Engineer",
+    "label": "Computer Science Engineer | Data Engineer II @ Accordion",
     "picture": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/II.png?alt=media&token=817ff17a-6d9b-4090-a5d6-fda1c10ce3ef",
     "email": "contact.arshadsheik@gmail.com",
     "url": "https://arshad-sheik.vercel.app",
@@ -20,7 +20,7 @@
       {
         "network": "resume",
         "username": "Arshad Sheik",
-        "url": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Arshad-Resume.pdf?alt=media&token=756908a7-3de5-4d4f-a9c9-9500fd3e2ed9"
+        "url": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Resumes%2FArshad%20Sheik_Resume.pdf?alt=media&token=fffe5b43-b490-462d-9d69-cfc0f5426aa5"
       },
       {
         "network": "GitHub",
