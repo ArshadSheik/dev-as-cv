@@ -43,33 +43,48 @@
 
   "work": [
     {
-        "index": 0,
-        "id": "0bd3d194-f609-4d1b-b5cd-97c44d76655c",
-        "name": "Merilytics",
-        "place": {
-            "name": "Hyderabad, Telangana India"
-        },
-        "startDate": "2023-08-01",
-        "position": "Technical Associate",
-        "summary": "I am currently working as Technical Associate at Merilytics. Here, I'm working on data engineering and data analytics related projects.",
-        "location": "Hyderabad, Telangana India",
-        "stillEmployed": true
+      "index": 0,
+      "id": "0bd3d194-f609-4d1b-b5cd-97c44d76655c",
+      "name": "Accordion",
+      "place": {
+          "name": "HITEC City, Hyderabad, TG"
+      },
+      "startDate": "2024-04-01",
+      "position": "Data Engineer II",
+      "summary": "Currently serving as Data Engineer II at Accordion. Optimized and automated end-to-end business insights report generation for a leading digital health solution. Reduced ETL query complexity by 56% and execution time by 65%. Independently managed the entire reporting workstream, ensuring high-quality delivery. Automated report generation using Retool, integrating Snowflake and AWS backend infrastructure. Led multiple workstreams as a team lead, onboarding and mentoring new team members, ensuring timely project delivery, and enhancing team productivity, contributing to overall project success.",
+      "location": "HITEC City, Hyderabad, TG",
+      "stillEmployed": true
     },
     {
         "index": 1,
-        "id": "d9f0f81a-d0eb-4cde-8ca7-b026c1773e09",
-        "name": "Merilytics",
+        "id": "0bd3d194-f609-4d1b-b5cd-97c44d76655c",
+        "name": "Merilytics (Merged with Accordion)",
         "place": {
-            "name": "Hyderabad, Telangana India"
+            "name": "Kondapur, Hyderabad, TG"
         },
-        "position": "Technical Associate-Intern",
-        "endDate": "2023-06-01",
-        "startDate": "2023-02-01",
-        "summary": "Designed and implemented data pipelines that incorporate incremental data loading on a daily basis. As a result, the load time has been significantly reduced, achieving an improvement of 38% compared to the expected load time. This enhancement has led to enhanced data visibility on our dashboards.\n\nEnsured ongoing monitoring of pipelines and effectively resolved data discrepancies by conducting troubleshooting activities.",
-        "location": "Hyderabad, Telangana India",
+        "endDate": "2024-03-31",
+        "startDate": "2023-08-01",
+        "position": "Technical Associate",
+        "summary": "Contributed to the development, optimization, and automation of ETL processes for a U.S.-based digital health solution, boosting productivity by 78% and reducing manual effort. Enhanced code for ad-hoc client requests, increasing client satisfaction and project value. Automated initial report generation and validation tasks, cutting client-side manual effort by 70% and expanding project scope. Proactively collaborated with business teams to troubleshoot and resolve ETL issues, improving operational efficiency and ensuring timely resolution. Promoted to a senior role in April 2024 for impactful contributions, driving client and company growth through optimized processes and technical expertise.",
+        "location": "Kondapur, Hyderabad, TG",
         "stillEmployed": false
     },
     {
+        "index": 2,
+        "id": "d9f0f81a-d0eb-4cde-8ca7-b026c1773e09",
+        "name": "Merilytics",
+        "place": {
+            "name": "Gachibowli, Hyderabad, TG"
+        },
+        "position": "Database Intern",
+        "endDate": "2023-06-01",
+        "startDate": "2023-02-01",
+        "summary": "Developed and optimized ETL and ELT pipelines for a leading US law firm using Azure Synapse and Azure Data Factory. Designed and enhanced daily incremental data loading processes, achieving a 38% reduction in load time and improved dashboard data visibility. Conducted ongoing monitoring and troubleshooting to resolve data discrepancies.",
+        "location": "Gachibowli, Hyderabad, TG",
+        "stillEmployed": false
+    },
+    {
+        "index": 3,
         "name": "Talakunchi",
         "position": "Cybersecurity Intern",
         "summary": "Conceptualized the bits and bytes of Cybersecurity and Ethical hacking, on different types of Malware and Threats, IDS and IPS, Vulnerability assessment check and also implemented the same on some vulnerable websites.\nImplemented the concepts of Ethical Hacking.",
@@ -83,8 +98,7 @@
         "place": {
             "name": "Virtual / Online"
         },
-        "stillEmployed": false,
-        "index": 2
+        "stillEmployed": false
     }
   ],
   
