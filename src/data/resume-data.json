@@ -7,15 +7,14 @@
     "email": "contact.arshadsheik@gmail.com",
     "url": "https://arshad-sheik.vercel.app",
     "website": "https://arshad-sheik.vercel.app",
-    "summary": "Computer Science Engineer",
+    "summary": "Passionate Computer & Data Engineer",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Hyderabad",
+      "city": "Hyderabad, TG",
       "countryCode": "IN",
       "region": "Telangana"
     },
-
     "profiles": [
       {
         "network": "resume",
@@ -40,7 +39,6 @@
     ]
 
   },
-
   "work": [
     {
       "index": 0,
@@ -65,7 +63,7 @@
         "endDate": "2024-03-31",
         "startDate": "2023-08-01",
         "position": "Data Engineer I",
-        "summary": "Contributed to the development, optimization, and automation of ETL processes for a U.S.-based digital health solution, boosting productivity by 78% and reducing manual effort. \n Enhanced code for ad-hoc client requests, increasing client satisfaction and project value. Automated initial report generation and validation tasks, cutting client-side manual effort by 70% and expanding project scope. Proactively collaborated with business teams to troubleshoot and resolve ETL issues, improving operational efficiency and ensuring timely resolution. Promoted to a senior role in April 2024 for impactful contributions, driving client and company growth through optimized processes and technical expertise.",
+        "summary": "Contributed to the development, optimization, and automation of ETL processes for a U.S.-based digital health solution, boosting productivity by 78% and reducing manual effort. Enhanced code for ad-hoc client requests, increasing client satisfaction and project value. Automated initial report generation and validation tasks, cutting client-side manual effort by 70% and expanding project scope. Proactively collaborated with business teams to troubleshoot and resolve ETL issues, improving operational efficiency and ensuring timely resolution. Promoted to a senior role in April 2024 for impactful contributions, driving client and company growth through optimized processes and technical expertise.",
         "location": "Kondapur, Hyderabad, TG",
         "stillEmployed": false
     },
@@ -101,7 +99,6 @@
         "stillEmployed": false
     }
   ],
-  
   "education": [
     {
         "position": 2,
@@ -130,6 +127,28 @@
   ],
 
   "awards": [
+    {
+      "title": "Alteryx Foundation Micro-Credential",
+      "date": "2024-09-07",
+      "awarder": "Alteryx",
+      "summary": "Alteryx Foundation Micro-Credential, 2024",
+      "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Certifications%2FAlteryx%2FMirco-Credential%2FFoundation%20-%20Micro%20Credential.jpg?alt=media&token=9c9bec17-ee72-4aef-9ec9-10121808fe47"
+        }
+      ]
+    },
+    {
+      "title": "Alteryx Designer Core Micro-Credential",
+      "date": "2024-09-07",
+      "awarder": "Alteryx",
+      "summary": "Alteryx Designer Core Micro-Credential, 2024",
+      "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/Certifications%2FAlteryx%2FMirco-Credential%2FDesigner%20Core%20GK.jpg?alt=media&token=a5f678ba-700b-4931-afd5-35d783982a12"
+        }
+      ]
+    },
     {
       "title": "Forage - Deloitte Technology Virtual Experience",
       "date": "2023-06-14",
@@ -230,7 +249,6 @@
       ]
     }
   ],
-
   "publications": [
     {
       "index": 0,
@@ -259,7 +277,6 @@
       "description": "While riding on the roads everyone must follow the traffic rules accordingly and the bike riders have to wear helmets for their own safety. The proposed system demonstrates that deep learning, specifically CNNs, can be used to detect and identify non-helmet riders and their license plate numbers from CCTV footage. "
     }
   ],
-
   "skills": [
     {
         "name": "Database",
@@ -276,14 +293,14 @@
     {
         "name": "Machine Learning",
         "index": 2,
-        "value": 80,
+        "value": 70,
         "id": "Machine Learning"
     },
     {
       "name": "Data Science",
       "index": 11,
       "level": "Master",
-      "value": 75,
+      "value": 70,
       "keywords": [
         "Machine Learning",
         "Data",
@@ -306,32 +323,26 @@
     {
         "name": "Snowflake",
         "index": 5,
-        "value": 70,
+        "value": 85,
         "id": "Snowflake"
     },
     {
-        "name": "Git",
+        "name": "Git/GitHub",
         "index": 7,
         "value": 65,
-        "id": "Git"
+        "id": "Git/GitHub"
     },
     {
-        "name": "Github",
+        "name": "ETL/ELT",
         "index": 8,
-        "value": 65,
-        "id": "Github"
+        "value": 75,
+        "id": "ETL/ELT"
     },
     {
-        "name": "Power BI",
-        "index": 10,
-        "value": 70,
-        "id": "Power BI"
-    },
-    {
-      "name": "Tableau Software",
+      "name": "Project Management",
       "index": 9,
-      "value": 70,
-      "id": "Tableau Software"
+      "value": 75,
+      "id": "Project Management"
     }
   ],
 
@@ -480,11 +491,10 @@
       "endDate": "2020-03-01"
     }
   ],
-
   "specific": {
     "basics": {
-      "visaSponsorship": true,
-      "personalDescription": "I'm a B.Tech graduate in Computer Science and Engineering from MGIT. My enthusiasm for technology is paralleled by a commitment to staying abreast of the most current trends in the field. I'm also experienced in Big data & Data Analytics domains, currently working as Technical Associate at Merilytics. I belong to Hyderabad, Telangana, India."
+      "visaSponsorship": false,
+      "personalDescription": "Hi, I'm Arshad, Diligent and proactive Data Engineer with 1.5 years of experience in data management, analytics, and pipeline optimization. Expertise in designing, developing, and optimizing data pipelines, ETL processes, and managing large-scale data systems. Skilled in leveraging Python, SQL, and cloud platforms (Azure, Snowflake, AWS) to deliver scalable data solutions. Adept at enhancing ETL processes for improved data quality and performance. Highly analytical, detail-oriented, and committed to providing deep insights backed by thorough research. Responsible and supportive leader with a proven track record of successfully managing teams to deliver critical project requests ahead of deadlines, streamline data intake, and develop innovative solutions. Experienced in troubleshooting and debugging ETL processes, ensuring timely issue resolution and contributing to overall project success. I am driven by a continuous quest for knowledge and growth, always eager to learn and adapt to new technologies and methodologies. \n\n By combining my passion for computer science, proficiency in data management and analytics, and a keen eye for detail, I aim to make significant contributions in a dynamic and challenging role within the tech industry."
     },
     "education": {
       "studiesLevel": 4
@@ -493,7 +503,7 @@
       "contractTypes": [
         "permanent"
       ],
-      "codingYears": 4,
+      "codingYears": 5.5,
       "codingReason": "Coding, for me, is the ultimate blend of logic and creativity that consistently ignites my motivation. Learning is a never-ending journey in the coding world, and that's what keeps me hooked. It's not just a skill; it's a driving force that keeps me engaged and excited every day.",
       "searchState": "openOpportunities",
       "experienceYears": 0,
@@ -505,10 +515,8 @@
       "embedUrl": "https://open.spotify.com/embed/playlist/2Fz0d2vTsv3DZH13SqTnZU"
     },
 
-    "interestedBy": "Big Data Engineering, Big Data Analytics, Databases, Datascience, Machine Learning, Deeplearning, Computer Vision"
+    "interestedBy": "Big Data Engineering, Big Data Analytics, Databases, Generative AI, Cloud Computing"
   },
-
-
   "resumeCustomization": {
     "imageHeader": {
       "url": "https://firebasestorage.googleapis.com/v0/b/dev-as-cv.appspot.com/o/lap.jpg?alt=media&token=f1cf8c87-a334-47c6-af6c-bce65832f734",
