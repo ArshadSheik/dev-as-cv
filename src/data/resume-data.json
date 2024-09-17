@@ -7,7 +7,7 @@
     "email": "contact.arshadsheik@gmail.com",
     "url": "https://arshad-sheik.vercel.app",
     "website": "https://arshad-sheik.vercel.app",
-    "summary": "Passionate Computer & Data Engineer",
+    "summary": "Passionate Computer Engineer",
     "location": {
       "address": "",
       "postalCode": "",
@@ -48,7 +48,7 @@
           "name": "HITEC City, Hyderabad, TG"
       },
       "startDate": "2024-04-01",
-      "position": "Data Engineer II",
+      "position": "Data Engineer 2",
       "summary": "Currently serving as Data Engineer II at Accordion. Optimized and automated end-to-end business insights report generation for a leading digital health solution. Reduced ETL query complexity by 56% and execution time by 65%. Independently managed the entire reporting workstream, ensuring high-quality delivery. Automated report generation using Retool, integrating Snowflake and AWS backend infrastructure. Led multiple workstreams as a team lead, onboarding and mentoring new team members, ensuring timely project delivery, and enhancing team productivity, contributing to overall project success.",
       "location": "HITEC City, Hyderabad, TG",
       "stillEmployed": true
@@ -62,7 +62,7 @@
         },
         "endDate": "2024-03-31",
         "startDate": "2023-08-01",
-        "position": "Data Engineer I",
+        "position": "Data Engineer 1",
         "summary": "Contributed to the development, optimization, and automation of ETL processes for a U.S.-based digital health solution, boosting productivity by 78% and reducing manual effort. Enhanced code for ad-hoc client requests, increasing client satisfaction and project value. Automated initial report generation and validation tasks, cutting client-side manual effort by 70% and expanding project scope. Proactively collaborated with business teams to troubleshoot and resolve ETL issues, improving operational efficiency and ensuring timely resolution. Promoted to a senior role in April 2024 for impactful contributions, driving client and company growth through optimized processes and technical expertise.",
         "location": "Kondapur, Hyderabad, TG",
         "stillEmployed": false
@@ -506,8 +506,8 @@
       "codingYears": 5.5,
       "codingReason": "Coding, for me, is the ultimate blend of logic and creativity that consistently ignites my motivation. Learning is a never-ending journey in the coding world, and that's what keeps me hooked. It's not just a skill; it's a driving force that keeps me engaged and excited every day.",
       "searchState": "openOpportunities",
-      "experienceYears": 0,
-      "codeExperienceYears": 0,
+      "experienceYears": 1.5,
+      "codeExperienceYears": 1.5,
       "otherExperienceYears": 0
     },
 
